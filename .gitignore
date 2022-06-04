@@ -1,0 +1,8 @@
+client/node_modules/
+comments/comments_env/
+event_bus/event_bus_env/
+posts/posts_env/
+query/query_env/
+
+.DS_Store
+client.zip
